@@ -4,6 +4,7 @@
 - Install deps: `pnpm install`
 - Start dev server: `pnpm dev`
 - Run tests: `pnpm test`
+- DO NOT USE HACKED DEPENDENCIES!!!
  
 ## Code style
 - TypeScript strict mode
